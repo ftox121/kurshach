@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qJOquL+m4iWq0cynW2T+P+zrzcZwq+Xtt8fWHCYD+Nq9zXc2NzaVujMYy2W5/qlktf2sIODYldkLPITnPeDbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FTOX\\source\\repos\\Cafe\\Cafe\\Cafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FTOX\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\FTOX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
